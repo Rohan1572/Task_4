@@ -1,3 +1,7 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
 .nav-item {
   font-size: small;
   margin-right: 15px;
@@ -25,12 +29,18 @@
   margin-top: 30px;
 }
 
-.bot{
-    margin: 40px;
-    background-color: white;
-    padding: 2%;
+.bot {
+  margin: 40px;
+  background-color: white;
+  padding: 2%;
 }
 
-img{
-    margin-bottom: 10px;
+i {
+  margin-bottom: 15px;
+  color: #034694;
+}
+
+h6 {
+  color: #034694;
+  font-weight: bold;
 }
